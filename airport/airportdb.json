@@ -1,0 +1,35 @@
+//
+//	This file was automatically generated
+//
+airport_list["NZAA"] = {"icao":"NZAA","name":"Auckland International","latitude":-37.008,"longtitude":174.792};
+airport_list["NZLX"] = {"icao":"NZLX","name":"Alexandra","latitude":-45.212,"longtitude":169.373};
+airport_list["NZWB"] = {"icao":"NZWB","name":"Woodbourne","latitude":-41.518,"longtitude":173.87};
+airport_list["NZCH"] = {"icao":"NZCH","name":"Christchurch International","latitude":-43.489,"longtitude":172.532};
+airport_list["NZCI"] = {"icao":"NZCI","name":"Chatham Islands","latitude":-43.81,"longtitude":-176.457};
+airport_list["NZDN"] = {"icao":"NZDN","name":"Dunedin","latitude":-45.928,"longtitude":170.198};
+airport_list["NZGS"] = {"icao":"NZGS","name":"Gisborne","latitude":-38.663,"longtitude":177.978};
+airport_list["NZMC"] = {"icao":"NZMC","name":"Mount Cook","latitude":-43.765,"longtitude":170.133};
+airport_list["NZHK"] = {"icao":"NZHK","name":"Hokitika","latitude":-42.714,"longtitude":170.985};
+airport_list["NZHN"] = {"icao":"NZHN","name":"Hamilton","latitude":-37.866,"longtitude":175.332};
+airport_list["NZNV"] = {"icao":"NZNV","name":"Invercargill","latitude":-46.412,"longtitude":168.313};
+airport_list["NZKT"] = {"icao":"NZKT","name":"Kaitaia","latitude":-35.07,"longtitude":173.285};
+airport_list["NZKK"] = {"icao":"NZKK","name":"Kerikeri","latitude":-35.263,"longtitude":173.912};
+airport_list["NZGT"] = {"icao":"NZGT","name":"Glentanner","latitude":-43.907,"longtitude":170.128};
+airport_list["NZMS"] = {"icao":"NZMS","name":"Masterton","latitude":-40.973,"longtitude":175.634};
+airport_list["NZNP"] = {"icao":"NZNP","name":"New Plymouth","latitude":-39.009,"longtitude":174.179};
+airport_list["NZNS"] = {"icao":"NZNS","name":"Nelson","latitude":-41.298,"longtitude":173.221};
+airport_list["NZOU"] = {"icao":"NZOU","name":"Oamaru","latitude":-44.97,"longtitude":171.082};
+airport_list["NZPM"] = {"icao":"NZPM","name":"Palmerston North","latitude":-40.321,"longtitude":175.617};
+airport_list["NZPP"] = {"icao":"NZPP","name":"Paraparaumu","latitude":-40.905,"longtitude":174.989};
+airport_list["NZRO"] = {"icao":"NZRO","name":"Rotorua","latitude":-38.109,"longtitude":176.317};
+airport_list["NZMO"] = {"icao":"NZMO","name":"Manapouri","latitude":-45.533,"longtitude":167.65};
+airport_list["NZTU"] = {"icao":"NZTU","name":"Timaru","latitude":-44.303,"longtitude":171.225};
+airport_list["NZTG"] = {"icao":"NZTG","name":"Tauranga","latitude":-37.672,"longtitude":176.196};
+airport_list["NZAP"] = {"icao":"NZAP","name":"Taupo","latitude":-38.74,"longtitude":176.084};
+airport_list["NZWU"] = {"icao":"NZWU","name":"Wanganui","latitude":-39.962,"longtitude":175.025};
+airport_list["NZWK"] = {"icao":"NZWK","name":"Whakatane","latitude":-37.921,"longtitude":176.914};
+airport_list["NZWF"] = {"icao":"NZWF","name":"Wanaka","latitude":-44.725,"longtitude":169.243};
+airport_list["NZWN"] = {"icao":"NZWN","name":"Wellington International","latitude":-41.327,"longtitude":174.805};
+airport_list["NZWR"] = {"icao":"NZWR","name":"Whangarei","latitude":-35.768,"longtitude":174.365};
+airport_list["NZWS"] = {"icao":"NZWS","name":"Westport","latitude":-41.738,"longtitude":171.581};
+airport_list["NZQN"] = {"icao":"NZQN","name":"Queenstown","latitude":-45.021,"longtitude":168.739};
